@@ -1,2 +1,2 @@
-git commity -m "current"
+git commit -m "current"
 
